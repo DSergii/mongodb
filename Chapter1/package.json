@@ -1,0 +1,17 @@
+{
+  "name": "chapter1",
+  "version": "1.0.0",
+  "description": "intro part of mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SergeyDrozd",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "nunjucks": "^2.5.2"
+  }
+}
